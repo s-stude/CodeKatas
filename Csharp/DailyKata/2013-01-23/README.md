@@ -1,1 +1,0 @@
-# First kata goes here
